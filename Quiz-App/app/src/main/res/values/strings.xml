@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+    <string name="true_text">True</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="question_declaration">The study of plants is known as botany.</string>  //True
+    <string name="question_temp">Kelvin is a measure of temperature.</string>  //True
+    <string name="question_body">The human skeleton is made up of less than 100 bones.</string> //False - 206
+    <string name="question_human">The human body has four lungs. </string>   //False - 2
+    <string name="question_physics">Albert Einstein was awarded the Nobel Prize in Physics. </string>  // True
+    <string name="question_spider">Spiders have six legs. </string>  //False - 8
+    <string name="question_water">Water is an example of a chemical element. </string>  //False
+    <string name="question_shark">Sharks are mammals. </string>   //False Shark are Fish
+    <string name="question_electron">Electrons are larger than molecules. </string>  //False
+    <string name="question_planet">Venus is the closest planet to the Sun. </string>  //False - Mercury
+    <string name="question_ocean">The Atlantic Ocean is the biggest ocean on Earth. </string>  //False - Pacific Ocean
+    <string name="previous_text">previous</string>
+    <string name="next_text">next_text</string>
+</resources>
